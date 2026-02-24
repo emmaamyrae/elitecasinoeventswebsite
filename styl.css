@@ -1,0 +1,84 @@
+
+
+
+header {
+    background-color: #6a1b9a;
+    color: white;
+    padding: 20px;
+}
+
+nav {
+    background-color: #4a148c;
+    padding: 10px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 15px;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+main {
+    padding: 30px;
+}
+
+footer {
+    background-color: #6a1b9a;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+table {
+    width: 100%;
+}
+
+form input, form select {
+    padding: 5px;
+    width: 250px;
+}
+
+h3 {
+    color: orange;
+    margin-top: 20px;
+    font-size: 30px;
+}
+
+p {
+    font-family: revert;
+}
+
+h2 {
+
+    font-size: 40px;
+}
+
+h1 {
+    font-size: 40px;
+    color: orange;
+    font-family: !important;
+}
+h4 {
+    color: black;
+    font: bold;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    color: white;
+    background: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)),
+                url("background.jpeg") center/cover no-repeat fixed;
+}
+
+h5{
+    color: #6a1b9a;
+    font: bold;
+    font-size: 25px;
+}
+
+
